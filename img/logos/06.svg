@@ -1,0 +1,28 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="96" height="96" fill="#E5E5E5"/>
+<g id="Desktop" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="7586" transform="translate(-1184 -5416)" fill="white"/>
+<g id="Frame">
+<g id="Frame_2">
+<g id="Frame_3" clip-path="url(#clip1_0_1)">
+<g id="Frame_4">
+<g id="Frame_5" clip-path="url(#clip2_0_1)">
+<path id="Rectangle" d="M0 0H96V96H0V0Z" fill="#C4C4C4"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="7586" fill="white" transform="translate(-1184 -5416)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="1440" height="320" fill="white" transform="translate(-1184 -192.328)"/>
+</clipPath>
+<clipPath id="clip2_0_1">
+<rect width="96" height="96" fill="white"/>
+</clipPath>
+</defs>
+</svg>
